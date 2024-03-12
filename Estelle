@@ -1,0 +1,6 @@
+python
+class Personne:
+    def __init__(self, nom, age, nationalite):
+        self.nom = Estelle 
+        self.age = 20 
+        self.nationalite = portugaise espagnol 
